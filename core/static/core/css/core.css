@@ -1,0 +1,37 @@
+/*Font*/
+.st-font{
+    font-family: 'Tangerine', serif;
+    
+}
+
+html,
+body{
+    height: 100%; 
+}
+
+.container-fluid{
+    min-height: 100%;
+}
+/*icon color*/
+.i-color{
+    color:chartreuse;
+}
+/*service subtitle color*/
+.ss-color{
+    color:silver;
+}
+
+.w-color{
+    color: whitesmoke;
+}
+
+.w-color:hover{
+    color: black;
+    background-color: #e9cd79;
+}
+
+.w-color:active{
+    color: black;
+    background-color: #ffc107;
+    font-weight: bold;
+}
